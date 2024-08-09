@@ -1,0 +1,1 @@
+In Python,I learned PANDAS library and practically implemented,In PANDAS I learned how to retrieve the data from csv or xlsx and how to modify the row,column and index value.And then to perofrm mathematical operation like to find mean(),median and Standard Deviation.
